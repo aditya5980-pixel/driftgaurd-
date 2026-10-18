@@ -1,0 +1,12 @@
+[
+  {"id": 1, "output": "On the login page, click Forgot Password, type your registered email, and use the reset link we send to your inbox."},
+  {"id": 2, "output": "The library opens at 8 AM and closes at 8 PM on weekdays; on Saturdays it is open 9 AM to 2 PM."},
+  {"id": 3, "output": "Fill the bonafide request form at the administrative office and bring your ID card. It takes three working days."},
+  {"id": 4, "output": "Pay the semester fee through the student portal before the 15th of the first month of the semester."},
+  {"id": 5, "output": "Send an email from your college account to your mentor, or attend the weekly mentor hour on the timetable."},
+  {"id": 6, "output": "Results appear in the Results section of the student portal once they are declared."},
+  {"id": 7, "output": "Complete the membership form on the club notice board or website, then attend the next orientation."},
+  {"id": 8, "output": "Mid-semester hostel rooms depend on availability, so apply to the warden and give a valid reason."},
+  {"id": 9, "output": "Open the scholarship section of the student portal, complete the application, and submit it with the required documents before the deadline."},
+  {"id": 10, "output": "Sign in to the student portal, open Profile, edit your contact details, and save the changes."}
+]

@@ -1,0 +1,14 @@
+DriftGuard Regression Report
+==============================
+1 | How do I reset my password? | 0.80 | PASS
+2 | What are the library timings? | 0.62 | PASS
+3 | How can I apply for a bonafide certificate? | 0.02 | FAIL
+4 | When is the fee payment deadline? | 0.37 | FAIL
+5 | How do I contact my mentor? | 0.00 | FAIL
+6 | Where can I find my exam results? | 0.64 | PASS
+7 | How do I join the coding club? | 0.88 | PASS
+8 | Can I get a hostel room mid-semester? | 0.18 | FAIL
+9 | What is the procedure for applying for a scholarship? | 0.80 | PASS
+10 | How do I update my contact information? | 0.32 | FAIL
+
+Pass rate: 50.0%

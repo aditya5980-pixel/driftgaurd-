@@ -1,0 +1,12 @@
+[
+  {"id": 1, "output": "Use the Forgot Password option on the login page, enter your registered email, then follow the link sent to your inbox."},
+  {"id": 2, "output": "The library is open from 8 AM to 8 PM every day of the week."},
+  {"id": 3, "output": "Please contact the hostel warden for assistance."},
+  {"id": 4, "output": "Fees can be paid at any time during the semester via the student portal."},
+  {"id": 5, "output": "I'm sorry, I don't have information about that."},
+  {"id": 6, "output": "Results are shown under the Results section of the student portal after they are declared."},
+  {"id": 7, "output": "Fill in the membership form on the club website or notice board and join the next orientation session."},
+  {"id": 8, "output": "Hostel rooms are guaranteed to all students at any time."},
+  {"id": 9, "output": "Go to the scholarship section on the student portal, fill out the form, and submit it with your documents before the deadline."},
+  {"id": 10, "output": "Visit the administrative office in person to change your contact details."}
+]

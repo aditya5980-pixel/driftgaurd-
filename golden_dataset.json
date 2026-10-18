@@ -1,0 +1,22 @@
+[
+  {"id": 1, "input": "How do I reset my password?",
+   "expected": "Click Forgot Password on the login page, enter your registered email, and follow the reset link sent to your inbox."},
+  {"id": 2, "input": "What are the library timings?",
+   "expected": "The library is open from 8 AM to 8 PM on weekdays and 9 AM to 2 PM on Saturdays."},
+  {"id": 3, "input": "How can I apply for a bonafide certificate?",
+   "expected": "Submit the bonafide request form at the administrative office with your ID card. It is issued within three working days."},
+  {"id": 4, "input": "When is the fee payment deadline?",
+   "expected": "The semester fee must be paid before the 15th of the first month of the semester through the student portal."},
+  {"id": 5, "input": "How do I contact my mentor?",
+   "expected": "Email your mentor using your college email or meet during the weekly mentor hour listed on the timetable."},
+  {"id": 6, "input": "Where can I find my exam results?",
+   "expected": "Exam results are published on the student portal under the Results section after the declaration date."},
+  {"id": 7, "input": "How do I join the coding club?",
+   "expected": "Fill the membership form on the club notice board or website and attend the next orientation session."},
+  {"id": 8, "input": "Can I get a hostel room mid-semester?",
+   "expected": "Hostel rooms mid-semester depend on availability. Submit an application to the warden with a valid reason."},
+  {"id": 9, "input": "What is the procedure for applying for a scholarship?",
+   "expected": "Check the scholarship section on the student portal, fill out the application form, and submit it along with required documents before the deadline."},
+  {"id": 10, "input": "How do I update my contact information?",
+   "expected": "Log in to the student portal, go to the Profile section, and update your contact details. Save changes to ensure they are recorded."}
+]
