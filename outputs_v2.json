@@ -1,12 +1,23 @@
 [
-  {"id": 1, "output": "Use the Forgot Password option on the login page, enter your registered email, then follow the link sent to your inbox."},
-  {"id": 2, "output": "The library is open from 8 AM to 8 PM every day of the week."},
-  {"id": 3, "output": "Please contact the hostel warden for assistance."},
-  {"id": 4, "output": "Fees can be paid at any time during the semester via the student portal."},
-  {"id": 5, "output": "I'm sorry, I don't have information about that."},
-  {"id": 6, "output": "Results are shown under the Results section of the student portal after they are declared."},
-  {"id": 7, "output": "Fill in the membership form on the club website or notice board and join the next orientation session."},
-  {"id": 8, "output": "Hostel rooms are guaranteed to all students at any time."},
-  {"id": 9, "output": "Go to the scholarship section on the student portal, fill out the form, and submit it with your documents before the deadline."},
-  {"id": 10, "output": "Visit the administrative office in person to change your contact details."}
+  {"id": 1,"output": "Use the Forgot Password option on the login page, enter your registered email, then follow the link sent to your inbox."},
+  {"id": 2,"output": "The library is open from 8 AM to 8 PM every day of the week." },
+  {"id": 3,"output": "Please contact the hostel warden for assistance." },
+  {"id": 4,"output": "Fees can be paid at any time during the semester via the student portal."},
+  {"id": 5,"output": "I'm sorry, I don't have information about that." },
+  {"id": 6,"output": "Results are shown under the Results section of the student portal after they are declared." },
+  {"id": 7,"output": "Fill in the membership form on the club website or notice board and join the next orientation session." },
+  {"id": 8, "output": "Hostel rooms are guaranteed to all students at any time." },
+  {"id": 9,"output": "Go to the scholarship section on the student portal, fill out the form, and submit it with your documents before the deadline."},
+  {"id": 10,"output": "Visit the administrative office in person to change your contact details."},
+  {"id": 11,"output": "Course registration may be handled by your department office; I cannot confirm whether the student portal is used or what the deadline is." },
+  {"id": 12,"output": "Log in to the library portal using your student credentials to access e-books, journals, and databases." },
+  {"id": 13,"output": "The computer lab is usually open during the day. Ask a lab assistant about login rules and whether software can be installed." },
+  {"id": 14,"output": "For a leave of absence, tell your instructor why you need leave. I’m not sure which form, documents, or approvals are required."},
+  {"id": 15,"output": "The academic calendar may be posted somewhere on the college website, but I can’t confirm the section or whether it lists exam dates." },
+  {"id": 16,"output": "If the student portal has a problem, try again later or ask a classmate. I don’t know whether an IT ticket or helpdesk is available." },
+  {"id": 17,"output": "Ask a faculty member how to get a transcript; I can’t confirm the official request channel or any fee." },
+  {"id": 18,"output": "Ask the cultural-fest organizers whether registration is open. I don’t know if there is an event portal or orientation session." },
+  {"id": 19,"output": "Ask your instructor how assignments should be submitted. I can’t confirm the portal, deadline, or required format." },
+  {"id": 20,"output": "Your class schedule might be shared by your department or classmates; I can’t confirm where to find the official timetable." }
+  
 ]

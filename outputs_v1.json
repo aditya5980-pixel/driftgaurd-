@@ -8,5 +8,15 @@
   {"id": 7, "output": "Complete the membership form on the club notice board or website, then attend the next orientation."},
   {"id": 8, "output": "Mid-semester hostel rooms depend on availability, so apply to the warden and give a valid reason."},
   {"id": 9, "output": "Open the scholarship section of the student portal, complete the application, and submit it with the required documents before the deadline."},
-  {"id": 10, "output": "Sign in to the student portal, open Profile, edit your contact details, and save the changes."}
+  {"id": 10, "output": "Sign in to the student portal, open Profile, edit your contact details, and save the changes."},
+  {"id": 11, "output": "Register for courses via the student portal by selecting courses, checking prerequisites, and submitting before the deadline."},
+  {"id": 12, "output": "Access online library resources by logging into the library portal with your student credentials to find e-books, journals, and databases."},
+  {"id": 13, "output": "The computer lab is open from 9 AM to 6 PM. Log in with your ID, follow lab rules, and do not install unauthorized software."},
+  {"id": 14, "output": "Submit a leave of absence request form to the academic office with a valid reason and supporting documents. Approval from the head of department is needed."},
+  {"id": 15, "output": "Find the academic calendar on the college website under Academics. It lists important semester dates, exams, and holidays."},
+  {"id": 16, "output": "Report technical issues by submitting a ticket through the IT support section on the student portal or email the IT helpdesk with details."},
+  {"id": 17, "output": "Request a transcript through the student portal or contact the registrar's office. Provide necessary details and pay any fees."},
+  {"id": 18, "output": "To join the annual cultural fest, register on the event portal, attend orientation, and follow participation guidelines."},
+  {"id": 19, "output": "Submit assignments via the student portal before deadlines. Ensure they are in the required format and include all necessary components."},
+  {"id": 20, "output": "View your class schedule by logging into the student portal and going to the Schedule section for course names, timings, and locations."}
 ]

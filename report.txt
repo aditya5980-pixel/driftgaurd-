@@ -1,14 +1,26 @@
 DriftGuard Regression Report
 ==============================
-1 | How do I reset my password? | 0.80 | PASS
-2 | What are the library timings? | 0.62 | PASS
-3 | How can I apply for a bonafide certificate? | 0.02 | FAIL
-4 | When is the fee payment deadline? | 0.37 | FAIL
-5 | How do I contact my mentor? | 0.00 | FAIL
-6 | Where can I find my exam results? | 0.64 | PASS
-7 | How do I join the coding club? | 0.88 | PASS
-8 | Can I get a hostel room mid-semester? | 0.18 | FAIL
-9 | What is the procedure for applying for a scholarship? | 0.80 | PASS
-10 | How do I update my contact information? | 0.32 | FAIL
+Rule: FAIL if score < 0.45 or drop vs v1 > 0.1
 
-Pass rate: 50.0%
+1 | How do I reset my password? | v1 0.75 | v2 0.80 | PASS
+2 | What are the library timings? | v1 0.77 | v2 0.58 | FAIL
+3 | How can I apply for a bonafide certificate? | v1 0.74 | v2 0.02 | FAIL
+4 | When is the fee payment deadline? | v1 0.85 | v2 0.35 | FAIL
+5 | How do I contact my mentor? | v1 0.69 | v2 0.00 | FAIL
+6 | Where can I find my exam results? | v1 0.48 | v2 0.64 | PASS
+7 | How do I join the coding club? | v1 0.81 | v2 0.88 | PASS
+8 | Can I get a hostel room mid-semester? | v1 0.73 | v2 0.20 | FAIL
+9 | What is the procedure for applying for a scholarship? | v1 0.69 | v2 0.79 | PASS
+10 | How do I update my contact information? | v1 0.56 | v2 0.28 | FAIL
+11 | What is the process for course registration? | v1 0.38 | v2 0.34 | FAIL
+12 | How can I access the online library resources? | v1 0.60 | v2 0.83 | PASS
+13 | What are the rules for using the computer lab? | v1 0.68 | v2 0.37 | FAIL
+14 | How do I apply for a leave of absence? | v1 0.94 | v2 0.32 | FAIL
+15 | Where can I find the academic calendar? | v1 0.78 | v2 0.41 | FAIL
+16 | How do I report a technical issue with the student portal? | v1 0.79 | v2 0.29 | FAIL
+17 | What is the procedure for requesting a transcript? | v1 0.89 | v2 0.21 | FAIL
+18 | How can I participate in the annual cultural fest? | v1 0.79 | v2 0.35 | FAIL
+19 | What are the guidelines for submitting assignments? | v1 0.64 | v2 0.48 | FAIL
+20 | How do I access my class schedule? | v1 0.66 | v2 0.27 | FAIL
+
+Pass rate: 25.0%

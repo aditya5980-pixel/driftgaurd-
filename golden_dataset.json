@@ -18,5 +18,25 @@
   {"id": 9, "input": "What is the procedure for applying for a scholarship?",
    "expected": "Check the scholarship section on the student portal, fill out the application form, and submit it along with required documents before the deadline."},
   {"id": 10, "input": "How do I update my contact information?",
-   "expected": "Log in to the student portal, go to the Profile section, and update your contact details. Save changes to ensure they are recorded."}
-]
+   "expected": "Log in to the student portal, go to the Profile section, and update your contact details. Save changes to ensure they are recorded."},
+  {"id": 11, "input": "What is the process for course registration?",
+   "expected": "Course registration is done through the student portal. Select your courses, check for prerequisites, and submit your registration before the deadline."},
+  {"id": 12, "input": "How can I access the online library resources?",
+   "expected": "Log in to the library portal using your student credentials. You can access e-books, journals, and databases from the resources section."},
+  {"id": 13, "input": "What are the rules for using the computer lab?",
+   "expected": "The computer lab is open from 9 AM to 6 PM. Students must log in with their ID, follow lab etiquette, and avoid installing unauthorized software."},
+  {"id": 14, "input": "How do I apply for a leave of absence?",
+   "expected": "Submit a leave of absence request form to the academic office with a valid reason and supporting documents. Approval is required from the head of the department."},
+  {"id": 15, "input": "Where can I find the academic calendar?",
+   "expected": "The academic calendar is available on the college website under the Academics section. It includes important dates for the semester, exams, and holidays."},
+  {"id": 16, "input": "How do I report a technical issue with the student portal?",
+   "expected": "Report technical issues by submitting a ticket through the IT support section on the student portal or emailing the IT helpdesk with a detailed description of the problem."},
+  {"id": 17, "input": "What is the procedure for requesting a transcript?",
+   "expected": "Submit a request for a transcript through the student portal or contact the registrar's office directly. Provide the necessary details and pay any required fees."},
+  {"id": 18, "input": "How can I participate in the annual cultural fest?",
+   "expected": "To participate in the annual cultural fest, register through the event portal, attend the orientation session, and follow the guidelines for event participation."},
+  {"id": 19, "input": "What are the guidelines for submitting assignments?",
+   "expected": "Assignments should be submitted through the student portal before the deadline. Ensure that they are in the required format and include all necessary components as specified by the instructor."},
+  {"id": 20, "input": "How do I access my class schedule?",
+   "expected": "Log in to the student portal and navigate to the Schedule section to view your class timetable, including course names, timings, and locations."}
+] 
