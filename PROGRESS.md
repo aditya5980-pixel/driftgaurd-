@@ -21,8 +21,18 @@ Plan: scoped-down student version with a TF-IDF + cosine similarity comparator.
 - Finding: wording-based similarity missed one wrong answer (library timings) that reused the expected words. Correct answers with different vocabulary also scored lower than expected.
 - Pushed the working pipeline to GitHub.
 
+## Oct 24
+- Replaced the sample data with my own 20-question dataset (v2 answers hedge or refuse instead of answering).
+- Added a second rule: FAIL if the score drops by more than 0.10 compared with v1.
+- Added automatic metrics. Result: 15 of 15 regressions caught, 0 false alarms (accuracy, precision and recall 100% on this set; thresholds tuned on the same set).
+- Findings: the threshold alone missed ids 2 and 19; the drop rule caught them.
+
+## Oct 26
+- Tried adding a live LLM mode (Gemini API); hit free-tier quota limits, so it moved to future work. The controlled v1/v2 test remains the evaluation.
+
 ## Next
 - Grow the golden dataset to 20 entries.
 - Add a baseline-drop mode and GitHub Actions.
 - Try a real LLM API for the AI feature.
 - Screenshots, architecture diagram, written report, poster.
+
