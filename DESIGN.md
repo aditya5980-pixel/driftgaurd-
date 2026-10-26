@@ -26,29 +26,7 @@ If the test data changes between the "before" and "after" runs, any difference o
 ## 3. System Architecture
 
 ```
-                    ┌─────────────────┐
-                    │  Golden Dataset  │  (fixed inputs + expected outputs)
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              ▼                             ▼
-     ┌─────────────────┐          ┌──────────────────┐
-     │  AI Feature      │          │  AI Feature       │
-     │  (OLD prompt)    │          │  (NEW prompt)      │
-     └────────┬─────────┘          └─────────┬─────────┘
-              │                              │
-              ▼                              ▼
-        Old Outputs                    New Outputs
-              │                              │
-              └──────────────┬───────────────┘
-                              ▼
-                     ┌─────────────────┐
-                     │   Comparator      │  (cosine similarity, etc.)
-                     └────────┬──────────┘
-                              ▼
-                     ┌─────────────────┐
-                     │ Report Generator  │  (pass/fail per test case)
-                     └─────────────────┘
+![Architecture](architecture.png)
 ```
 
 ## 4. Component Breakdown
